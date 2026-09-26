@@ -1,0 +1,13 @@
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
+crash.*.log
+node_modules/
+lambda/*/dist.zip
+*.pdf
+.DS_Store
+# Local Pi runtime state
+.atl/

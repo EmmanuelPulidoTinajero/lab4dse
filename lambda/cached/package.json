@@ -1,0 +1,10 @@
+{
+  "name": "lab4dse-cached",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^8.11.5",
+    "ioredis": "^5.4.1"
+  }
+}
